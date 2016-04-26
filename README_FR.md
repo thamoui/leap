@@ -9,7 +9,3 @@ pour chaque année qui est divisible par 4
 Par exemple, 1997 n'est pas une année bissextile, mais 1996 l'est, 1900 est pas une année bissextile, mais 2000 l'est !
 
 Si votre language fournit une méthode dans la bibliothèque standard qui fait ce calcul, ignorez le.
-
-## Remarques
-
-[Vidéo](http://www.youtube.com/watch?v=xX96xng7sAE)
