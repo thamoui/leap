@@ -12,4 +12,4 @@ Si votre language fournit une méthode dans la bibliothèque standard qui fait c
 
 ## Remarques
 
-[Vidéo]: http://www.youtube.com/watch?v=xX96xng7sAE
+[Vidéo](http://www.youtube.com/watch?v=xX96xng7sAE)
