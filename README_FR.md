@@ -1,3 +1,5 @@
+Ecrire un programme qui prend une année en entrée et signale si elle est bissextile.
+
 Ce qui est délicat ici, c'est qu'une année bissextile dans le calendrier grégorien se produit:
 
 ```plain
